@@ -1,16 +1,52 @@
-## Hi there 👋
+## 👋 Hello, I'm Akshyat Ankur Patel
 
-<!--
-**akshyat21/akshyat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dubai, UAE | 📧 [akshyat2001@gmail.com](mailto:akshyat2001@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/)
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
+I'm a **Data Scientist & AI Engineer** with 2+ years of backend development experience at RedBus, specializing in machine learning, predictive modeling, and high-scale system optimization. I'm passionate about building end-to-end AI products that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **AI CV Screener & Creating my own GPT**
+- 🌱 I’m currently learning: **Advanced LLM Deployment & MLOps**
+- 👯 I’m looking to collaborate on: **Open-source AI projects with business impact**
+- 💬 Ask me about: **Python, LLMs, Predictive Modeling**
+- 📄 View my professional experience on [LinkedIn](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/) and my [portfolio](https://akshyat21.github.io/)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AI Energy Simulator](link-to-repo)** | A production-ready system for Dalma Mall to forecast power and cooling load. | Python, Scikit-learn, Streamlit, Pandas, NumPy, Plotly |
+| **[UAE Real Estate AI Analyzer](https://github.com/akshyat21/UAE-RealEstate-AI)** | A live price prediction app for the UAE property market with AI explanations. | Python, Streamlit, CatBoost, Optuna, LangChain, Groq API |
+
+---
+
+### 🛠️ Tech Toolbox
+
+*   **Languages:** Python, SQL, Erlang, R
+*   **Frameworks & Libraries:** Scikit-learn, TensorFlow, PyTorch, LangChain
+*   **MLOps & Cloud:** Docker, Streamlit Cloud, CI/CD
+*   **Data Science:** Pandas, NumPy, Scikit-learn, Data Modeling
+
+---
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/akshyat21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshyat21&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="Akshyat's GitHub Stats" />
+</a>
+<a href="https://github.com/akshyat21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshyat21&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to discussing AI engineering, collaborations, or job opportunities.
+
+- **GitHub:** [github.com/akshyat21](https://github.com/akshyat21)
+- **LinkedIn:** [linkedin.com/in/akshyat-ankur-patel-79993a215/](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/)
+- **Portfolio:** [akshyat21.github.io](https://akshyat21.github.io)
+- **Email:** [akshyat2001@gmail.com](mailto:akshyat2001@gmail.com)
