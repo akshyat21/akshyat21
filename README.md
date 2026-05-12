@@ -9,7 +9,7 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 - 🌱 I’m currently learning: **Advanced LLM Deployment & MLOps**
 - 👯 I’m looking to collaborate on: **Open-source AI projects with business impact**
 - 💬 Ask me about: **Python, LLMs, Predictive Modeling**
-- 📄 View my professional experience on [LinkedIn](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/) and my [portfolio](https://akshyat21.github.io/)
+- 📄 View my professional experience on [LinkedIn](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/) and my [portfolio](https://my-portfolio-phi-wine-18.vercel.app/)
 
 ---
 
@@ -49,5 +49,5 @@ I'm always open to discussing AI engineering, collaborations, or job opportuniti
 
 - **GitHub:** [github.com/akshyat21](https://github.com/akshyat21)
 - **LinkedIn:** [linkedin.com/in/akshyat-ankur-patel-79993a215/](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/)
-- **Portfolio:** [akshyat21.github.io](https://akshyat21.github.io)
+- **Portfolio:** [my-portfolio-phi-wine-18.vercel.app](https://my-portfolio-phi-wine-18.vercel.app/)
 - **Email:** [akshyat2001@gmail.com](mailto:akshyat2001@gmail.com)
