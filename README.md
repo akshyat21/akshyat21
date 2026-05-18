@@ -25,27 +25,16 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 
 ### 🛠️ Tech Toolbox
 
-*   **Languages:** Python, SQL, Erlang, R
-*   **Frameworks & Libraries:** Scikit-learn, TensorFlow, PyTorch, LangChain
-*   **MLOps & Cloud:** Docker, Streamlit Cloud, CI/CD
-*   **Data Science:** Pandas, NumPy, Scikit-learn, Data Modeling
-
----
-
-### 📈 GitHub Stats
-
-<a href="https://github.com/akshyat21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshyat21&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="Akshyat's GitHub Stats" />
-</a>
-<a href="https://github.com/akshyat21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshyat21&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
-</a>
+*   **Technical:** Python, SQL, Erlang, C++, R, Power BI, Git, CI/CD
+*   **AI & ML:** Machine Learning, LLMs, Generative AI, TensorFlow, PyTorch, NLP, Prompt Engineering, Agentic AI, Predictive Analytics
+*   **Data & Tools:** Pandas, Scikit‑learn, ClickHouse DB, Grafana, Streamlit, LangChain, Groq API
+*   **Business:** CRM (Salesforce/HubSpot), AI‑Powered Sales Analytics, Lead Generation, Client Negotiation
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm always open to discussing AI engineering, collaborations, or job opportunities.
+I'm always open to discussing Data & AI, collaborations, or job opportunities.
 
 - **GitHub:** [github.com/akshyat21](https://github.com/akshyat21)
 - **LinkedIn:** [linkedin.com/in/akshyat-ankur-patel-79993a215/](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/)
