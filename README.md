@@ -17,7 +17,7 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AI Energy Simulator]()** | A production-ready system for Dalma Mall to forecast power and cooling load. | Python, Scikit-learn, Streamlit, Pandas, NumPy, Plotly |
+| **[AI Energy Simulator](https://github.com/akshyat21)** | A production-ready system for Dalma Mall to forecast power and cooling load. | Python, Scikit-learn, Streamlit, Pandas, NumPy, Plotly |
 | **[UAE Real Estate AI Analyzer](https://github.com/akshyat21/UAE-RealEstate-AI)** | A live price prediction app for the UAE property market with AI explanations. | Python, Streamlit, CatBoost, Optuna, LangChain, Groq API |
 | **[Customer Churn Prediction](https://github.com/akshyat21/AI-Churn-Prediction)** | Predicts telecom customer churn and gives AI‑generated retention advice. Logistic regression (AUC 0.84) + Groq LLM + Streamlit. | Python, scikit‑learn, Streamlit, LangChain, Groq |
 | **[Multilingual Voice AI Agent](https://github.com/akshyat21/AI-Voice-Agent-Model)** | Multilingual Voice AI Agent – Record a question, get an intelligent spoken answer in English, Arabic, Hindi, French, or Spanish. Built with Streamlit, Groq (Whisper + Llama 3.3), and gTTS. | Python, Streamlit, LangChain, Groq, gTTS, STT & TTS Models, Omni Models |
