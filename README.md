@@ -8,7 +8,7 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 - 🔭 I’m currently working on: **AI CV Screener & Creating my own GPT**
 - 🌱 I’m currently learning: **Advanced LLM Deployment & MLOps**
 - 👯 I’m looking to collaborate on: **Open-source AI projects with business impact**
-- 💬 Ask me about: **Python, LLMs, Predictive Modeling**
+- 💬 Ask me about: **Python, LLMs, RAG, Predictive Modeling**
 - 📄 View my professional experience on [LinkedIn](https://www.linkedin.com/in/akshyat-ankur-patel-79993a215/) and my [portfolio](https://my-portfolio-phi-wine-18.vercel.app/)
 
 ---
@@ -20,6 +20,7 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 | **[AI Energy Simulator](https://github.com/akshyat21)** | A production-ready system for Dalma Mall to forecast power and cooling load. | Python, Scikit-learn, Streamlit, Pandas, NumPy, Plotly |
 | **[UAE Real Estate AI Analyzer](https://github.com/akshyat21/UAE-RealEstate-AI)** | A live price prediction app for the UAE property market with AI explanations. | Python, Streamlit, CatBoost, Optuna, LangChain, Groq API |
 | **[Customer Churn Prediction](https://github.com/akshyat21/AI-Churn-Prediction)** | Predicts telecom customer churn and gives AI‑generated retention advice. Logistic regression (AUC 0.84) + Groq LLM + Streamlit. | Python, scikit‑learn, Streamlit, LangChain, Groq |
+| **[Medical RAG Prototype](https://github.com/akshyat21/medical-rag-prototype)** | Local RAG system using sentence‑transformers + Groq Llama 3.3. Retrieval on‑premise, swappable with MedGemma + NVIDIA GPU. | Python, sentence‑transformers, Streamlit, LangChain, Groq |
 | **[Multilingual Voice AI Agent](https://github.com/akshyat21/AI-Voice-Agent-Model)** | Multilingual Voice AI Agent – Record a question, get an intelligent spoken answer in English, Arabic, Hindi, French, or Spanish. Built with Streamlit, Groq (Whisper + Llama 3.3), and gTTS. | Python, Streamlit, LangChain, Groq, gTTS, STT & TTS Models, Omni Models |
 
 ---
@@ -27,8 +28,8 @@ I'm a **Data Scientist & AI Engineer** with 2+ years of backend development expe
 ### 🛠️ Tech Toolbox
 
 *   **Technical:** Python, SQL, Erlang, C++, R, Power BI, Git, CI/CD
-*   **AI & ML:** Machine Learning, LLMs, Generative AI, TensorFlow, PyTorch, NLP, Prompt Engineering, Agentic AI, Predictive Analytics
-*   **Data & Tools:** Pandas, Scikit‑learn, ClickHouse DB, Grafana, Streamlit, LangChain, Groq API
+*   **AI & ML:** Machine Learning, LLMs, Generative AI, TensorFlow, PyTorch, NLP, Prompt Engineering, Agentic AI, Predictive Analytics, RAG, Vector Databases
+*   **Data & Tools:** Pandas, Scikit‑learn, Sentence‑Transformers, ClickHouse DB, Grafana, Streamlit, LangChain, Groq API
 *   **Business:** CRM (Salesforce/HubSpot), AI‑Powered Sales Analytics, Lead Generation, Client Negotiation
 
 ---
